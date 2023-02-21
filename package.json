@@ -1,0 +1,17 @@
+{
+  "name": "react-node-robot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "wpilib-nt-client": "^1.7.2",
+    "ws": "^8.12.1"
+  }
+}
