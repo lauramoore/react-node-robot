@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 var wpilibclient = require('wpilib-nt-client')
 
-const client = new ntClient.Client()
+const client = new wpilibclient.Client()
  
 
 
